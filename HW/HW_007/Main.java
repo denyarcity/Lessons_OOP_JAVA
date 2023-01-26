@@ -1,4 +1,4 @@
-import HW.HW_007.ui.App;
+import ui.App;
 
 
 public class Main {

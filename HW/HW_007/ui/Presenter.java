@@ -1,14 +1,14 @@
-package HW.HW_007.ui;
+package ui;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import HW.HW_007.data.Company;
-import HW.HW_007.data.ContactMain;
-import HW.HW_007.service.Add;
-import HW.HW_007.service.Delete;
-import HW.HW_007.service.PhoneBook;
-import HW.HW_007.service.Search;
+import data.Company;
+import data.ContactMain;
+import service.Add;
+import service.Delete;
+import service.PhoneBook;
+import service.Search;
 
 public class Presenter implements Add, Delete, Search {
     private PhoneBook modelPhoneBook;

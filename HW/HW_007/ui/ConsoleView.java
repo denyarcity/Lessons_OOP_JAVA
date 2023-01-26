@@ -1,10 +1,10 @@
-package HW.HW_007.ui;
+package ui;
 
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-import HW.HW_007.data.ContactMain;
+import data.ContactMain;
 
 public class ConsoleView implements View {
 

@@ -1,8 +1,8 @@
-package HW.HW_007.service;
+package service;
 
 import java.util.List;
 
-import HW.HW_007.data.ContactMain;
+import data.ContactMain;
 
 public interface Search {
     public List<ContactMain> search();

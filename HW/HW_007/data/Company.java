@@ -1,4 +1,4 @@
-package HW.HW_007.data;
+package data;
 
 public class Company extends ContactMain {
 

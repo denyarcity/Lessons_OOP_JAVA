@@ -1,4 +1,4 @@
-package HW.HW_007.ui;
+package ui;
 
 import java.util.Map;
 

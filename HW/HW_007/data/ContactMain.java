@@ -1,4 +1,4 @@
-package HW.HW_007.data;
+package data;
 
 import java.util.HashMap;
 import java.util.Map;

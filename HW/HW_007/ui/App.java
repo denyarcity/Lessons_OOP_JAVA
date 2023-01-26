@@ -1,6 +1,6 @@
-package HW.HW_007.ui;
+package ui;
 
-import HW.HW_007.service.PhoneBook;
+import service.PhoneBook;
 
 public class App {
 

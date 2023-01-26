@@ -1,4 +1,4 @@
-package HW.HW_007.service;
+package service;
 
 public interface Add {
     public void addContact();
